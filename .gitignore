@@ -1,0 +1,6 @@
+# Ignore all video files
+**/*.mp4
+**/*.mov
+**/*.avi
+**/*.mkv
+# Add more video file extensions if needed
